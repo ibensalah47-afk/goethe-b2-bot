@@ -1,6 +1,6 @@
 name: Goethe B2 Algeria Monitor
 
-on:
+"on":
   workflow_dispatch:
 
 jobs:
